@@ -1,7 +1,7 @@
 # entry-excel
 Sales Analysis Excel
 
-##Bike Sales Data Analysis
+## Bike Sales Data Analysis
 
 An Excel-based project analyzing bike sales data to uncover trends and insights related to customer demographics and purchasing behavior.
 
